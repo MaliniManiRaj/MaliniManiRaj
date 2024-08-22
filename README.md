@@ -61,7 +61,7 @@ Feel free to reach out to me through the following channels:
 - **GitHub:** [Your GitHub Profile](https://github.com/your-username)
 - **Twitter:** [Your Twitter Handle](https://twitter.com/your-twitter-handle)
 
-## Certications
+## Certifications
 **AWS Data Analytics Speciality**
 
 ## Blog
