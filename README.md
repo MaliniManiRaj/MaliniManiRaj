@@ -61,6 +61,9 @@ Feel free to reach out to me through the following channels:
 - **GitHub:** [Your GitHub Profile](https://github.com/your-username)
 - **Twitter:** [Your Twitter Handle](https://twitter.com/your-twitter-handle)
 
+## Certications
+**AWS Data Analytics Speciality**
+
 ## Blog
 
 I share my thoughts and insights on data science and related topics on my blog. Check out some of my recent posts:
