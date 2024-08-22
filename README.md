@@ -52,30 +52,17 @@ Created a machine learning model to predict customer churn with X% accuracy. Imp
 Built an NLP pipeline for sentiment analysis on social media posts, achieving an F1 score of X%.  
 *Technologies:* Python, NLTK, SpaCy, TensorFlow
 
+## Certifications
+**AWS Data Analytics Speciality**
+
 ## Contact
 
 Feel free to reach out to me through the following channels:
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/your-twitter-handle)
 
-## Certifications
-**AWS Data Analytics Speciality**
 
-## Blog
 
-I share my thoughts and insights on data science and related topics on my blog. Check out some of my recent posts:
-
-- **[Understanding Generative Adversarial Networks](https://your-blog-link.com/understanding-gan)**  
-A deep dive into the mechanics of GANs and their applications.
-
-- **[Effective Techniques for Feature Engineering](https://your-blog-link.com/feature-engineering)**  
-Tips and techniques for improving your machine learning models through feature engineering.
-
-- **[Leveraging NLP for Real-Time Sentiment Analysis](https://your-blog-link.com/nlp-sentiment-analysis)**  
-How to build an NLP pipeline for sentiment analysis and integrate it into real-time systems.
 
 ---
 
