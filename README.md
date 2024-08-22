@@ -11,8 +11,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   - [Data Analytics](#data-analytics)
   - [Machine Learning](#machine-learning)
   - [Natural Language Processing](#natural-language-processing)
+- [Micro Projects](#micro-projects)
+- [Certifications](#certifications)
 - [Contact](#contact)
-- [Blog](#blog)
 
 ## About Me
 
